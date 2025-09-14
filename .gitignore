@@ -1,0 +1,12 @@
+# GoLand
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Sensitive configuration
+config.json
+snapchef
+db_test.go
+.DS_Store
